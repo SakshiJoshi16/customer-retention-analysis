@@ -35,7 +35,8 @@ This project combines exploratory analytics and predictive modeling to solve a c
 - Interactive slicers to deep-dive into behavior cohorts
 - Insight cards with business recommendations
 
-📷 (Add screenshots of your dashboard here)
+<img width="1288" height="723" alt="image" src="https://github.com/user-attachments/assets/75d72e62-967b-465a-8ca2-66b812d1d861" />
+
 
 ---
 
